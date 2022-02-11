@@ -15,11 +15,11 @@
 <a href="https://www.hackerrank.com/f191220001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="f191220001" height="30" width="40" /></a>
 </p>
 
-![68747470733a2f2f692e67697068792e636f6d2f5254684e30684f5332474f344d2e676966](https://user-images.githubusercontent.com/74877688/153557493-cbe74478-581d-4023-bae9-860495926e33.gif)
-
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+![68747470733a2f2f692e67697068792e636f6d2f5254684e30684f5332474f344d2e676966](https://user-images.githubusercontent.com/74877688/153557561-af88bc00-ea75-4fec-881d-b9a428c42e29.gif)
+
 
 
 

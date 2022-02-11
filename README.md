@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/melikeguzzel" target="blank"><img src="https://img.shields.io/twitter/follow/melikeguzzel?logo=twitter&style=for-the-badge" alt="melikeguzzel" /></a> </p>
 
-- 🌱 I’m currently learning **Web Security - Cloud Security**
+- 🌱 I’m currently learning **Web Security - Cloud Security**!
 
 - 📫 How to reach me **melikeguzel@protonmail.com**
 
@@ -14,6 +14,8 @@
 <a href="https://linkedin.com/in/melike güzel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="melike güzel" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/f191220001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="f191220001" height="30" width="40" /></a>
 </p>
+![68747470733a2f2f692e67697068792e636f6d2f5254684e30684f5332474f344d2e676966](https://user-images.githubusercontent.com/74877688/153557462-352de289-ecbd-41e6-8b4f-eca734f0d2aa.gif)
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>

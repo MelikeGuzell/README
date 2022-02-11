@@ -14,7 +14,8 @@
 <a href="https://linkedin.com/in/melike güzel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="melike güzel" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/f191220001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="f191220001" height="30" width="40" /></a>
 </p>
-![68747470733a2f2f692e67697068792e636f6d2f5254684e30684f5332474f344d2e676966](https://user-images.githubusercontent.com/74877688/153557462-352de289-ecbd-41e6-8b4f-eca734f0d2aa.gif)
+
+![68747470733a2f2f692e67697068792e636f6d2f5254684e30684f5332474f344d2e676966](https://user-images.githubusercontent.com/74877688/153557493-cbe74478-581d-4023-bae9-860495926e33.gif)
 
 
 <h3 align="left">Languages and Tools:</h3>
